@@ -44,7 +44,7 @@ Contributions to Bpix are welcome! If you have suggestions, improvements, or bug
 ## Contact
 For any inquiries or feedback, please contact:
 
-* Author: Ankush Kumar Rajput (Mr.Horbio)
+* Author: Mr.Horbio 
 * GitHub: https://github.com/MrHorbio
 * Youtube: https://www.youtube.com/@Mr-Horbio
 
