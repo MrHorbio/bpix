@@ -1,4 +1,4 @@
-# Bpix
+# Bpix (Beautypix)
 
 Bpix aka BeautyPix is a Python package that provides functionality for taking screenshots of websites using Selenium WebDriver. This tool reads a list of domains from a file, captures screenshots of each domain, and saves them to a designated directory.
 
