@@ -16,13 +16,15 @@ Bpix aka BeautyPix is a Python package that provides functionality for taking sc
 
 ## USAGE
 
-` from BPix.bpix import Bpix `
+```
+from BPix.bpix import Bpix
 
- ### Initialize Bpix with the path to the file containing domains and a timeout value 
-` bpix = Bpix(file_path='path/to/domains.txt', time_out=5) `
+#Initialize Bpix with the path to the file containing domains and a timeout value 
+bpix = Bpix(file_path='path/to/domains.txt', time_out=5) 
 
- ### Take screenshots of the domains listed in the file 
-` bpix.s_shot() ` 
+#Take screenshots of the domains listed in the file 
+bpix.s_shot()
+``` 
 
 
 
