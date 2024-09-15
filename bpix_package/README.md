@@ -45,7 +45,7 @@ Contributions to Bpix are welcome! If you have suggestions, improvements, or bug
 For any inquiries or feedback, please contact:
 
 * Author: Mr.Horbio 
-* GitHub: https://github.com/MrHorbio
+* GitHub: https://github.com/MrHorbio/bpix/blob/main/bpix_package/README.md
 * Youtube: https://www.youtube.com/@Mr-Horbio
 
 
